@@ -13,3 +13,5 @@ Step 5: `git commit -m "<write something here>"`
 Step 6: `git push`
 
 Step 7: `git log`
+
+Set up to always allow:
